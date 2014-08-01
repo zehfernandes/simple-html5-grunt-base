@@ -1,0 +1,11 @@
+# Simple HTML5 Grunt Base (LESS)
+# keep simple and enjoy
+
+# TEAM
+
+    Zeh Fernandes - Designer - @zehf
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, Grunt
+    jQuery
